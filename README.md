@@ -6,7 +6,7 @@ This allowed "interested parties" to download the encrypted music streams and de
 
 You could only do this if you had a paid for account so technically not really breaking the service (unless you then went on to share resultant decrypted flac files). 
 
-Sharing this in 2024 as issue has long been closed and as a matter of historical context. 
+Sharing this in 2024 as issue has long been closed and as a matter of historical context. At the time of discovery, Tidal was made aware of this issue using responsible disclosure.
 
 No liability accepted
 
